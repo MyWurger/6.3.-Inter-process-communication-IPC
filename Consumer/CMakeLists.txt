@@ -21,7 +21,7 @@ add_custom_target(cppcheck COMMAND ${CPPCHECK} ${CPPCHECK_OPTIONS} ${CPPCHECK_SO
 endif()
 
 # Путь к исполняемому файлу PROVIDER
-set(PROVIDER_EXECUTABLE_PATH /home/dmitru/PROVIDER)
+set(PROVIDER_EXECUTABLE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/../Provider/PROVIDER)
 
 add_executable(CONSUMER main.c)
 
