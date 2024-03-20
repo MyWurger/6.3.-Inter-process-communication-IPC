@@ -25,6 +25,8 @@ sys/shm.h
 -
 sys/wait.h
 -
+stdbool.h
+-
 shm_com.h
 /home/dmitru/Проекты VisualCode/Shared_memory/Consumer/shm_com.h
 
