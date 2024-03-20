@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/wait.h
+-
+shm_com.h
+/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/shm_com.h
+

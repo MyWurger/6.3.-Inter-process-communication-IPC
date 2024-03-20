@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dmitru/Проекты VisualCode/Shared_memory/Provider/build",
+  "command": "gcc  -I\"/home/dmitru/Проекты VisualCode/Shared_memory/Provider/..\"   -Wall -fsanitize=address -g   -o CMakeFiles/PROVIDER.dir/main.c.o   -c \"/home/dmitru/Проекты VisualCode/Shared_memory/Provider/main.c\"",
+  "file": "/home/dmitru/Проекты VisualCode/Shared_memory/Provider/main.c"
+}
+]

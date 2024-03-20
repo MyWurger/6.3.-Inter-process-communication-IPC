@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitru/Проекты VisualCode/Shared_memory/Provider/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/shm.h
+-
+sys/ipc.h
+-
+unistd.h
+-
+

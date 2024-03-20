@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/build",
+  "command": "gcc  -I\"/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/..\"   -Wall -fsanitize=address -g   -o CMakeFiles/CONSUMER.dir/main.c.o   -c \"/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/main.c\"",
+  "file": "/home/dmitru/Проекты VisualCode/Shared_memory/Consumer/main.c"
+}
+]
