@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Site BuildName="Linux-g++"
-	BuildStamp="20240320-1212-Experimental"
+	BuildStamp="20240321-0020-Experimental"
 	Name="astralinux"
 	Generator="ctest-3.16.3"
 	CompilerName="/usr/bin/g++"
@@ -21,14 +21,14 @@
 	TotalVirtualMemory="16152"
 	TotalPhysicalMemory="15770"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="1151.68"
+	ProcessorClockFrequency="2600"
 	>
 	<Testing>
-		<StartDateTime>Mar 20 21:56 MSK</StartDateTime>
-		<StartTestTime>1710960996</StartTestTime>
+		<StartDateTime>Mar 21 20:14 MSK</StartDateTime>
+		<StartTestTime>1711041296</StartTestTime>
 		<TestList/>
-		<EndDateTime>Mar 20 21:56 MSK</EndDateTime>
-		<EndTestTime>1710960996</EndTestTime>
+		<EndDateTime>Mar 21 20:14 MSK</EndDateTime>
+		<EndTestTime>1711041296</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

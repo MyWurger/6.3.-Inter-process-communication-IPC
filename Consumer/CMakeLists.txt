@@ -34,6 +34,7 @@ add_custom_command(
     COMMENT "Копирование PROVIDER в директорию сборки"
 )
 
+# Путь к заголовочному файлу .h
 target_include_directories(CONSUMER PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/../")
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
