@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "shm_com.h": "c"
+        "shm_com.h": "c",
+        "ipc.h": "c"
     }
 }

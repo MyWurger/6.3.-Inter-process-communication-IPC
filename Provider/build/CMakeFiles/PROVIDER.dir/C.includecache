@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../../shm_com.h
+pthread.h
+-
+
 /home/dmitru/Проекты VisualCode/Shared_memory/Provider/main.c
 stdio.h
 -
@@ -19,4 +23,6 @@ sys/ipc.h
 -
 unistd.h
 -
+shm_com.h
+/home/dmitru/Проекты VisualCode/Shared_memory/Provider/shm_com.h
 
